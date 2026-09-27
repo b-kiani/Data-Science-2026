@@ -1,0 +1,4 @@
+Python environment checklist
+1. Activate the course environment.
+2. Start JupyterLab from the project folder.
+3. Run the notebook from top to bottom.
