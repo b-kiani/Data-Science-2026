@@ -1,0 +1,4 @@
+Data quality notes
+1. Check missing values.
+2. Confirm dates and currency.
+3. Café orders include accented characters.

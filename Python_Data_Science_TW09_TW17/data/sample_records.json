@@ -1,0 +1,40 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Asha",
+    "active": true,
+    "contact": {
+      "city": "London",
+      "postcode": "NW1"
+    },
+    "interests": [
+      "books",
+      "data"
+    ]
+  },
+  {
+    "customer_id": 2,
+    "name": "Bilal",
+    "active": false,
+    "contact": {
+      "city": "Leeds",
+      "postcode": "LS1"
+    },
+    "interests": [
+      "music"
+    ]
+  },
+  {
+    "customer_id": 3,
+    "name": "Clara",
+    "active": true,
+    "contact": {
+      "city": "Bristol",
+      "postcode": "BS1"
+    },
+    "interests": [
+      "travel",
+      "fitness"
+    ]
+  }
+]
